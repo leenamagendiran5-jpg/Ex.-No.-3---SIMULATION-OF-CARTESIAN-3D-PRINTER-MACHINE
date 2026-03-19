@@ -60,8 +60,11 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+<img width="1907" height="1028" alt="image" src="https://github.com/user-attachments/assets/1172c837-8557-486f-9126-59766471979d" />
+
+
+### Name: Leena shree M
+### Register Number:212225220056
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
